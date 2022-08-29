@@ -78,7 +78,7 @@ const PortfolioGrid = () => {
           >
             <PortfolioCard>
               <VideoBg
-                playsInline
+                playsInLine
                 autoPlay
                 loop
                 muted
@@ -101,7 +101,7 @@ const PortfolioGrid = () => {
           >
             <PortfolioCard>
               <VideoBg
-                playsInline
+                playsInLine
                 autoPlay
                 loop
                 muted
@@ -123,7 +123,7 @@ const PortfolioGrid = () => {
           >
             <PortfolioCard>
               <VideoBg
-                playsInline
+                playsInLine
                 autoPlay
                 loop
                 muted
@@ -146,7 +146,7 @@ const PortfolioGrid = () => {
           <ExternalLink href="//https://innobeedigital.com/" target="_blank">
             <PortfolioCard>
               <VideoBg
-                playsInline
+                playsInLine
                 autoPlay
                 loop
                 muted
@@ -173,7 +173,7 @@ const PortfolioGrid = () => {
           >
             <PortfolioCard>
               <VideoBg
-                playsInline
+                playsInLine
                 autoPlay
                 loop
                 muted
@@ -200,7 +200,7 @@ const PortfolioGrid = () => {
           >
             <PortfolioCard>
               <VideoBg
-                playsInline
+                playsInLine
                 autoPlay
                 loop
                 muted
@@ -221,7 +221,7 @@ const PortfolioGrid = () => {
           <ExternalLink href="//https://www.yizaevents.com/" target="_blank">
             <PortfolioCard>
               <VideoBg
-                playsInline
+                playsInLine
                 autoPlay
                 loop
                 muted

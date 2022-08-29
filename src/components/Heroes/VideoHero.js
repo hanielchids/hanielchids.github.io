@@ -12,7 +12,7 @@ const VideoHero = () => {
     <VideoContainer>
       <VideoHeroBg>
         <VideoBg
-          playsInline
+          playsInLine
           autoPlay
           loop
           muted

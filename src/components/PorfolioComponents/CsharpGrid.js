@@ -79,7 +79,7 @@ const CsharpGrid = () => {
         <PortfolioItems>
           <PortfolioCard>
             <VideoBg
-              playsInline
+              playsInLine
               autoPlay
               loop
               muted

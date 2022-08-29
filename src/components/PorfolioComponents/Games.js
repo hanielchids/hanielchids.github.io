@@ -73,7 +73,7 @@ const Games = () => {
           >
             <PortfolioCard>
               <VideoBg
-                playsInline
+                playsInLine
                 autoPlay
                 loop
                 muted
