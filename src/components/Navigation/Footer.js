@@ -204,13 +204,13 @@ const Footer = () => {
               <FooterLinkItems>
                 <FooterLinkTitle>Social </FooterLinkTitle>
                 <FooterLinkExt
-                  href="//https://www.linkedin.com/in/haniel-chidavose-503168205"
+                  href="//www.linkedin.com/in/haniel-chidavose-503168205"
                   target="_blank"
                 >
                   LinkedIn
                 </FooterLinkExt>
                 <FooterLinkExt
-                  href="//https://github.com/hanielchids"
+                  href="//github.com/hanielchids"
                   target="_blank"
                 >
                   GitHub
@@ -240,7 +240,7 @@ const Footer = () => {
               </WebsiteRights>
               <SocialIcons>
                 <SocialIconLink
-                  href="//:https://www.linkedin.com/in/haniel-chidavose-503168205"
+                  href="//://www.linkedin.com/in/haniel-chidavose-503168205"
                   target="_blank"
                   aria-label="LinkedIn"
                 >
@@ -248,7 +248,7 @@ const Footer = () => {
                   <FaLinkedin />
                 </SocialIconLink>
                 <SocialIconLink
-                  href="//:https://www.github.com/hanielchids"
+                  href="//:www.github.com/hanielchids"
                   target="_blank"
                   aria-label="GitHub"
                 >
@@ -256,7 +256,7 @@ const Footer = () => {
                   <FaGithub />{" "}
                 </SocialIconLink>
                 <SocialIconLink
-                  href="//:https://www.stackoverflow.com/users/13561757/user13561757"
+                  href="//:www.stackoverflow.com/users/13561757/user13561757"
                   target="_blank"
                   aria-label="StackOverflow"
                 >
