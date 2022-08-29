@@ -214,6 +214,7 @@ const NavigationBar = ({ toggle }) => {
                 spy={true}
                 exact="true"
                 offset={-80}
+                to="contact"
               >
                 Get In touch
               </NavBtn>
