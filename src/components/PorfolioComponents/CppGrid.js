@@ -64,7 +64,7 @@ const CppGrid = () => {
       <PortfolioContainer>
         <PortfolioItems>
           <ExternalLink
-            href="//https://github.com/hanielchids/Basic-C-calculator-with-functions"
+            href="https://github.com/hanielchids/Basic-C-calculator-with-functions"
             target="_blank"
           >
             <PortfolioCard>
@@ -77,7 +77,7 @@ const CppGrid = () => {
 
         <PortfolioItems>
           <ExternalLink
-            href="//https://github.com/hanielchids/CPPLoginSystem"
+            href="https://github.com/hanielchids/CPPLoginSystem"
             target="_blank"
           >
             <PortfolioCard>
@@ -89,7 +89,7 @@ const CppGrid = () => {
 
         <PortfolioItems>
           <ExternalLink
-            href="//https://github.com/hanielchids/Student-Report-Management-System"
+            href="https://github.com/hanielchids/Student-Report-Management-System"
             target="_blank"
           >
             <PortfolioCard>

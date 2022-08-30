@@ -73,7 +73,7 @@ const PortfolioGrid = () => {
       <PortfolioContainer>
         <PortfolioItems>
           <ExternalLink
-            href="//https://hanielchids.github.io/test/"
+            href="https://hanielchids.github.io/test/"
             target="_blank"
           >
             <PortfolioCard>
@@ -96,7 +96,7 @@ const PortfolioGrid = () => {
 
         <PortfolioItems>
           <ExternalLink
-            href="//https://hanielchids.github.io/coffeeshop/"
+            href="https://hanielchids.github.io/coffeeshop/"
             target="_blank"
           >
             <PortfolioCard>
@@ -118,7 +118,7 @@ const PortfolioGrid = () => {
 
         <PortfolioItems>
           <ExternalLink
-            href="//https://vigorous-nightingale-91bec4.netlify.app/"
+            href="https://vigorous-nightingale-91bec4.netlify.app/"
             target="_blank"
           >
             <PortfolioCard>
@@ -143,7 +143,7 @@ const PortfolioGrid = () => {
         </PortfolioItems>
 
         <PortfolioItems>
-          <ExternalLink href="//https://innobeedigital.com/" target="_blank">
+          <ExternalLink href="https://innobeedigital.com/" target="_blank">
             <PortfolioCard>
               <VideoBg
                 playsInLine
@@ -168,7 +168,7 @@ const PortfolioGrid = () => {
 
         <PortfolioItems>
           <ExternalLink
-            href="//https://hanielchids.github.io/CA-complete/"
+            href="https://hanielchids.github.io/CA-complete/"
             target="_blank"
           >
             <PortfolioCard>
@@ -195,7 +195,7 @@ const PortfolioGrid = () => {
 
         <PortfolioItems>
           <ExternalLink
-            href="//https://nifty-leakey-06b42c.netlify.app/"
+            href="https://nifty-leakey-06b42c.netlify.app/"
             target="_blank"
           >
             <PortfolioCard>
@@ -218,7 +218,7 @@ const PortfolioGrid = () => {
         </PortfolioItems>
 
         <PortfolioItems>
-          <ExternalLink href="//https://www.yizaevents.com/" target="_blank">
+          <ExternalLink href="https://www.yizaevents.com/" target="_blank">
             <PortfolioCard>
               <VideoBg
                 playsInLine

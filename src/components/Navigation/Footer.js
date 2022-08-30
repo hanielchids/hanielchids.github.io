@@ -204,15 +204,12 @@ const Footer = () => {
               <FooterLinkItems>
                 <FooterLinkTitle>Social </FooterLinkTitle>
                 <FooterLinkExt
-                  href="//www.linkedin.com/in/haniel-chidavose-503168205"
+                  href="www.linkedin.com/in/haniel-chidavose-503168205"
                   target="_blank"
                 >
                   LinkedIn
                 </FooterLinkExt>
-                <FooterLinkExt
-                  href="//github.com/hanielchids"
-                  target="_blank"
-                >
+                <FooterLinkExt href="github.com/hanielchids" target="_blank">
                   GitHub
                 </FooterLinkExt>
                 <FooterLink
@@ -240,7 +237,7 @@ const Footer = () => {
               </WebsiteRights>
               <SocialIcons>
                 <SocialIconLink
-                  href="//://www.linkedin.com/in/haniel-chidavose-503168205"
+                  href="www.linkedin.com/in/haniel-chidavose-503168205"
                   target="_blank"
                   aria-label="LinkedIn"
                 >
@@ -248,7 +245,7 @@ const Footer = () => {
                   <FaLinkedin />
                 </SocialIconLink>
                 <SocialIconLink
-                  href="//:www.github.com/hanielchids"
+                  href="www.github.com/hanielchids"
                   target="_blank"
                   aria-label="GitHub"
                 >
@@ -256,14 +253,18 @@ const Footer = () => {
                   <FaGithub />{" "}
                 </SocialIconLink>
                 <SocialIconLink
-                  href="//:www.stackoverflow.com/users/13561757/user13561757"
+                  href="www.stackoverflow.com/users/13561757/user13561757"
                   target="_blank"
                   aria-label="StackOverflow"
                 >
                   {" "}
                   <FaStackOverflow />
                 </SocialIconLink>
-                <SocialIconLink href="//" target="_blank" aria-label="Google">
+                <SocialIconLink
+                  href="www.github.com/hanielchids"
+                  target="_blank"
+                  aria-label="Google"
+                >
                   {" "}
                   <FaGoogle />
                 </SocialIconLink>
