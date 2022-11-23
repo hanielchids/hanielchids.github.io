@@ -105,6 +105,21 @@ const Timeline = ({ id }) => {
                 alt="Bit Bucket"
                 // width="8%"
               />
+              <img
+                src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
+                alt="C#"
+                // width="8%"
+              />
+              <img
+                src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+                alt="React Native"
+                // width="8%"
+              />
+              <img
+                src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
+                alt="Vite js"
+                // width="8%"
+              />
             </h2>
             <h5>
               Worked on multiple projects, working on software development,
