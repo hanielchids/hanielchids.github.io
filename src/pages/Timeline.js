@@ -14,7 +14,7 @@ const Timeline = ({ id }) => {
             <span className="red-span"></span>02/22 – present
           </div>
           <div className="job_description">
-            <h1>Graduate Software Engineer</h1>
+            <h1>Junior Software Engineer</h1>
             <h3>SovTech</h3>
             <h2 color="gray">
               {" "}
@@ -105,12 +105,125 @@ const Timeline = ({ id }) => {
                 alt="Bit Bucket"
                 // width="8%"
               />
+              <img
+                src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
+                alt="C#"
+                // width="8%"
+              />
+              <img
+                src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+                alt="React Native"
+                // width="8%"
+              />
+              <img
+                src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
+                alt="Vite js"
+                // width="8%"
+              />
             </h2>
+
             <h5>
-              Worked on multiple projects, working on software development,
-              devOps, CI/CD pipelines and architecture. Maintenance, refactoring
-              and Introducing new features and functionality
+              Worked as part of various agile teams, with other teams consisting
+              of up to 4 developers, and other teams where I would be the sole
+              and only developer.
             </h5>
+            <div>
+              <ul>
+                <li style={{ fontSize: "15px", color: "gray" }}>
+                  <strong>Project 1</strong>, worked as a sole full stack
+                  developer:
+                  <ul>
+                    <li>
+                      Progressive Web App Project was in Reactjs, Vitejs,
+                      Typescript for the front end, and the backend was .NET
+                      Framework, .CORE using Swagger UI for the APIs(REST).
+                    </li>
+                    <li>
+                      Managed to deliver results achieving 100% of story points
+                      required for each weekly sprint.
+                    </li>
+                    <li>
+                      Worked on DevOps and set up CI/CD pipelines for Azure
+                      DevOps. Deployed a custom backend and Front end that would
+                      go through continuous integration using other tools such
+                      as SonarQube to curb issues
+                    </li>
+                    <li>Had less than 4% of feature to bug ratio.</li>
+                  </ul>
+                </li>
+
+                <li style={{ fontSize: "15px", color: "gray" }}>
+                  <strong>Project 2</strong>, worked as part of a 4 developer
+                  team
+                  <ul>
+                    <li>
+                      Web App Project was in Reactjs, TypeScript, Nodejs and
+                      using and Amplify and Nodejs backend served by (Apollo
+                      GraphQL)
+                    </li>
+                    <li>
+                      Mobile App shared a similar backend but the frontend was
+                      done in React-Native and TypeScript
+                    </li>
+                    <li>
+                      Managed to refactor large legacy codebases and improve
+                      speed of the application.
+                    </li>
+                    <li>
+                      Introduced tests to help with perfecting the code base
+                    </li>
+                  </ul>
+                </li>
+
+                <li style={{ fontSize: "15px", color: "gray" }}>
+                  <strong>Project 3</strong>, worked as a sole developer
+                  <ul>
+                    <li>
+                      Managed and worked on the projects DevOps with AWS, set up
+                      ports, VPCs, clusters, user pools, and containers for the
+                      platform. Set up CI/CD pipelines and Intergration with
+                      Bitbucket and AWS.
+                    </li>
+                    <li>
+                      Tech Stack was Reactjs, TypeScript with a Nodejs backend
+                      served with Apollo GraphQL and Strapi as the headless CMS
+                    </li>
+                    <li>Introduced SonarQube to help with linting.</li>
+                    <li>
+                      Refactored a lot of legacy code and updated tools being
+                      used, moving it from Node 12 to Node 16, and also finally
+                      getting the dormant project over the line into a project
+                      in production. Set up Paystack payment Gateways and other
+                      third parties for meeting streaming such as Agora
+                    </li>
+                  </ul>
+                </li>
+
+                <li style={{ fontSize: "15px", color: "gray" }}>
+                  <strong>Project 4</strong>, worked as part of a 3 developer
+                  team,
+                  <ul>
+                    <li>
+                      Helped improve the codebase by removing legacy practices
+                      and refactoring them.
+                    </li>
+                    <li>
+                      Project was in PHP, and laravel as the PHP framework.
+                      Managed CI/CD integration between Bitbucket and AWS
+                    </li>
+                    <li>
+                      Objective Key results / KPIs: meeting expected targets,
+                      95% completion of planned tasks, 95% of unplanned tasks,
+                      code reviews, software audits, 95% time tracking accuracy,
+                      project completion, 50% test coverage on each project
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+
+            <h3>Graduate Software Engineer</h3>
+
             <p className="content">
               Full stack development with various tech stacks on live projects.
               <ul>
