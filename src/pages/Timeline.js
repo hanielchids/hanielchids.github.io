@@ -11,7 +11,104 @@ const Timeline = ({ id }) => {
       <div id="timeline">
         <div className="job red">
           <div className="date">
-            <span className="red-span"></span>02/22 – present
+            <span className="red-span"></span>11/22 – present
+          </div>
+          <div className="job_description">
+            <h1>Software Engineer</h1>
+            <h3>SovTech Connect</h3>
+            <h2 color="gray">
+              {" "}
+              Technologies:
+              <br />
+              <img
+                src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+                alt="Golang"
+              />
+              <img
+                src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white"
+                alt="Remix"
+              />
+              <img
+                src=" https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "
+                alt="JS"
+              />
+              <img
+                src=" https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+                alt="CSS#"
+              />
+              <img
+                src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white  "
+                alt="TS"
+              />
+              <img
+                src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white  "
+                alt="node"
+              />
+              <img
+                src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+                alt="react"
+              />
+              <img
+                src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white "
+                alt="MySQL"
+              />
+              <img
+                src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white "
+                alt="AWS"
+              />
+              <img
+                src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white "
+                alt="Docker"
+              />
+              <img
+                src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+                alt="React Native"
+              />
+              <img
+                src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
+                alt="Vite js"
+              />
+            </h2>
+
+            <h5>
+              Worked as part of a 2 engineer agile team on a massive platform
+              for sourcing the best tech talent for blue chip companies and
+              start ups
+            </h5>
+            <div>
+              <ul>
+                <li style={{ fontSize: "15px", color: "gray" }}>
+                  Worked as a software engineer on the platform:
+                  <ul>
+                    <li>
+                      Web App Project was in Remixjs with Reactjs, Nodejs,
+                      Typescript, Vite, whilst making use of Prisma,
+                      ElasticSearch, Docker, Fly.io, sentry and posthog, serving
+                      backup jobs in Golang.
+                    </li>
+                    <li>Introduced testing in the form of unit tests.</li>
+                    <li>
+                      Managed to deliver results achieving 100% of story points
+                      required for each weekly sprint.
+                    </li>
+                    <li>
+                      Worked on DevOps and improved CI/CD pipelines for a
+                      GitHub, AWS and Fly.io DevOps integration. Deployed a
+                      custom backend and Front end that would go through
+                      continuous integration using other tools such as SonarQube
+                      for type checks and any issues
+                    </li>
+                    <li>Had less than 2% of feature to bug ratio.</li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div className="job blue">
+          <div className="date">
+            <span className="blue-span"></span>02/22 – 11/22
           </div>
           <div className="job_description">
             <h1>Junior Software Engineer</h1>
@@ -21,106 +118,103 @@ const Timeline = ({ id }) => {
               Technologies:
               <br />
               <img
-                src=" https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+                src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
                 alt="CSS#"
-                // width="8%"
+              />
+              <img
+                src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+                alt="Golang"
+              />
+              <img
+                src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white"
+                alt="Remix"
               />
               <img
                 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "
                 alt="HTML%"
-                // width="9.1%"
               />
               <img
                 src=" https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "
                 alt="JS"
-                // width="13%"
+              />
+              <img
+                src=" https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+                alt="CSS#"
               />
               <img
                 src=" https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white "
                 alt="PHP"
-                // width="7.3%"
               />
               <img
                 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white  "
                 alt="TS"
-                // width="13%"
               />
               <img
                 src=" https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql "
                 alt="GraphQL"
-                // width="16.5%"
               />
               <img
                 src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white "
                 alt="chakra"
-                // width="10%"
               />
               <img
                 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white  "
                 alt="node"
-                // width="10.3%"
               />
               <img
                 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
                 alt="react"
-                // width="10%"
               />
               <img
                 src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white "
                 alt="strapi"
-                // width="10.8%"
               />
               <img
                 src=" https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white "
                 alt=" "
-                // width="8.7%"
               />
               <img
                 src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white "
                 alt="AWS DynamoDB"
-                // width="21%"
               />
               <img
                 src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white "
                 alt="MySQL"
-                // width="10.3%"
               />
               <img
                 src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white "
                 alt="AWS"
-                // width="8.6%"
               />
               <img
                 src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"
                 alt="AZURE"
-                // width="10.2%"
               />
               <img
                 src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white "
                 alt="Docker"
-                // width="11.4%"
               />
               <img
                 src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"
                 alt="Bit Bucket"
-                // width="8%"
               />
               <img
                 src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
                 alt="C#"
-                // width="8%"
               />
               <img
                 src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
                 alt="React Native"
-                // width="8%"
               />
               <img
                 src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
                 alt="Vite js"
-                // width="8%"
               />
             </h2>
+
+            <h3 style={{ color: "#000", fontWeight: "bold" }}>
+              Junior Software Engineer
+            </h3>
+            <h3>SovTech Africa</h3>
 
             <h5>
               Worked as part of various agile teams, with other teams consisting
@@ -222,7 +316,8 @@ const Timeline = ({ id }) => {
               </ul>
             </div>
 
-            <h3>Graduate Software Engineer</h3>
+            <h3>Junior Software Engineer</h3>
+            <h3>SovTech</h3>
 
             <p className="content">
               Full stack development with various tech stacks on live projects.
@@ -267,9 +362,9 @@ const Timeline = ({ id }) => {
           </div>
         </div>
 
-        <div className="job blue">
+        <div className="job green">
           <div className="date">
-            <span className="blue-span"></span>06/21 – 02/22
+            <span className="green-span"></span>06/21 – 02/22
           </div>
           <div className="job_description">
             <h1>Software Engineer Intern</h1>
@@ -323,33 +418,6 @@ const Timeline = ({ id }) => {
                   sprints.
                 </li>
               </ul>
-            </p>
-          </div>
-        </div>
-
-        <div className="job green">
-          <div className="date">
-            <span className="green-span"></span>08/21 – 08/21
-          </div>
-          <div className="job_description">
-            <h1>Fintech Intern</h1>
-            <h3>CFTE Global Fintech Internship (UK)</h3>
-            <h2 color="gray">
-              Technologies:
-              <br />
-              PayPal, Onfido, R3, Chipper Cash
-            </h2>
-            <h5>
-              Learnt to examine systems, how finance is digitally transforming
-              the industry and to gather new requirements, giving feedback
-              (whilst working with a team), and finally implementing the new
-              systems.
-            </h5>
-            <p className="content">
-              Excellent first-hand experience on AI in Finance. Worked with
-              platforms in Finance with US and Citibank industry experts. Key
-              achievements were meeting expected targets and working under
-              pressure and as a team.
             </p>
           </div>
         </div>
