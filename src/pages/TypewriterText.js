@@ -8,8 +8,11 @@ const TypewriterText = () => {
       <Typewriter
         onInit={(typewriter) => {
           typewriter
-            .typeString("Hi, I'm Haniel")
-            .pauseFor(200)
+            .typeString("Hi, I'm Nyasha")
+            .pauseFor(100)
+            .deleteAll()
+            .typeString("Haniel")
+            .pauseFor(150)
             .deleteAll()
             .typeString("Wildlife lover, and")
             .pauseFor(200)
@@ -18,7 +21,7 @@ const TypewriterText = () => {
             .pauseFor(200)
             .deleteAll()
             .typeString(
-              'Hi, Im Haniel <span class="my-span" style="display: block;" >Software Engineer</span>'
+              'Hi, Im Nyasha Haniel <span class="my-span" style="display: block;" >Software Engineer</span>'
             )
             .start();
         }}
