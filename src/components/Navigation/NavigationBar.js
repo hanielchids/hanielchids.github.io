@@ -152,7 +152,7 @@ const NavigationBar = ({ toggle }) => {
         <Nav scrollNav={scrollNav}>
           <NavbarContainer>
             <NavLogo to="/" onClick={toggleHome}>
-              Haniel
+              Nyasha
             </NavLogo>
             <MobileIcon onClick={toggle}>
               <FaBars />
